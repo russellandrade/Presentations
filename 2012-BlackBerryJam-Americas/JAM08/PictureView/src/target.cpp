@@ -1,11 +1,3 @@
-/*
- * target.cpp
- *
- *  Created on: Sep 16, 2012
- *      Author: randrade
- */
-
-
 /* Copyright (c) 2012 Research In Motion Limited.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,6 +12,12 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
+/*
+ * target.cpp
+ *
+ *  Created on: Sep 16, 2012
+ *      Author: randrade
+ */
 
 #include "Target.hpp"
 #include "Opt.hpp"
